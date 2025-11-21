@@ -1,6 +1,6 @@
 # TallerFiguras_POO
 
-Nombre: (Crespo_John)
+Nombre: Crespo_John
 
 ## Descripción
 Ejercicio de herencia y polimorfismo con Cuadrados y Rectángulos.
